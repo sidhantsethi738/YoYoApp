@@ -1,0 +1,101 @@
+﻿
+
+.round-button {
+    /*display: block;*/
+    width: 180px;
+    height: 180px;
+    line-height: 80px;
+    border-radius: 50%;
+    /*background: #f1e8e8;*/
+    box-shadow: 0 0 3px gray;
+    font-weight: bold;
+    border: none;
+    /*color: white;*/
+    padding: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    
+    background-color: transparent; /* make the button transparent */
+    background-repeat: no-repeat; /* make the background image appear only once */
+    background-position: center; /* equivalent to 'top left' */
+}
+.round {
+    padding: 70px;
+}
+
+.vertical1 {
+    border-left: 1px solid #000000;
+    height: 80px;
+    position: absolute;
+    left: 33%;
+}
+
+.vertical2 {
+    border-left: 1px solid #000000;
+    height: 80px;
+    position: absolute;
+    left: 66%;
+
+}
+
+.Tablestruct {
+    padding: 120px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.hrstyle {
+   
+    border-left: 3px solid #000000;
+   
+}
+
+.showData {
+   
+    display: inline;
+ 
+}
+.showButtons {
+    float: right;
+    
+
+}
+
+
+.btn {
+    display: inline;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    line-height:8px;
+ 
+}
+
+.info {
+    background-color: #165b92;
+    float: right;
+    /*padding-left: 50%;*/
+}
+    /* Blue */
+    .info:hover {
+        background: #165b92;
+    }
+.danger {
+    background-color: #f44336;
+    float: right;
+}
+    /* Red */
+    .danger:hover {
+        background: #da190b;
+    }
+
+
+
+
+
+

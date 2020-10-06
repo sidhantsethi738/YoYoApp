@@ -1,0 +1,9 @@
+E:\YoYo-Web-App\YoYoDAL\bin\Debug\netcoreapp2.2\YoYoDAL.deps.json
+E:\YoYo-Web-App\YoYoDAL\bin\Debug\netcoreapp2.2\YoYoDAL.dll
+E:\YoYo-Web-App\YoYoDAL\bin\Debug\netcoreapp2.2\YoYoDAL.pdb
+E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.csproj.CoreCompileInputs.cache
+E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.AssemblyInfoInputs.cache
+E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.AssemblyInfo.cs
+E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.dll
+E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.pdb
+E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.csprojAssemblyReference.cache

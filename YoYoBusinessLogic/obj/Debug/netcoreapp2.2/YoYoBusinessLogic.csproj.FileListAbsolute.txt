@@ -1,0 +1,12 @@
+E:\YoYo-Web-App\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessLogic.deps.json
+E:\YoYo-Web-App\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessLogic.dll
+E:\YoYo-Web-App\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessLogic.pdb
+E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.csproj.CoreCompileInputs.cache
+E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.AssemblyInfoInputs.cache
+E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.AssemblyInfo.cs
+E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.dll
+E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.pdb
+E:\YoYo-Web-App\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.dll
+E:\YoYo-Web-App\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.pdb
+E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.csprojAssemblyReference.cache
+E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.csproj.CopyComplete
