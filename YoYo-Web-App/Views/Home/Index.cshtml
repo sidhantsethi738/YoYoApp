@@ -2,75 +2,95 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center"  >
+<div class="text-center">
     <h1 class="display-4">YoYo Test</h1>
 
-        <div class="round" id="buttons" >
-            <button class="round-button"  ><img src="~/Images/icon.jpg" id="imagebtn" ></button>
-        </div>
+    <div class="round" id="buttons">
+        <button class="round-button"><img src="~/Images/icon.jpg" id="imagebtn"></button>
+    </div>
+    <button class="round-button" id="endcircle"> <span class="endcircle">Test Completed</span></button>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-4">
-                    <b>NEXT SHUTTLE</b>
-                    <br />
-                    <br />
-                    <h2>
-                        <span id="shuttle" > </span>
-                    </h2>
+    <div class="progress" id="circle">
+        <svg class="progress-circle" width="200px" height="200px" xmlns="http://www.w3.org/2000/svg">
+            <circle class="progress-circle-back"
+                    cx="80" cy="80" r="74"></circle>
+            <circle class="progress-circle-prog"
+                    cx="80" cy="80" r="74"></circle>
+        </svg>
+        <span class="progress-text" id="circletext">  </span>
+    </div>
 
-                </div>
-                <div class="vertical1"></div>
-                <div class="col-sm-4">
-                    <b >TOTAL TIME</b>
-                    <br />
-                    <br />
-                    <h2>
-                        <span id="timetaken"></span>
-                    </h2>
-                </div>
-                <div class="vertical2"></div>
-                <div class="col-sm-4">
-                    <b>TOTAL DISTANCE</b>
-                    <br />
-                    <br />
-                    <h2>
-                        <span id="distance"> </span>
-                    </h2>
-                </div>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <b>NEXT SHUTTLE</b>
+                <br />
+                <br />
+                <h2>
+                    <span id="shuttle"> </span>
+                </h2>
+
+            </div>
+            <div class="vertical1"></div>
+            <div class="col-sm-4">
+                <b>TOTAL TIME</b>
+                <br />
+                <br />
+                <h2>
+                    <span id="timetaken"></span>
+                </h2>
+            </div>
+            <div class="vertical2"></div>
+            <div class="col-sm-4">
+                <b>TOTAL DISTANCE</b>
+                <br />
+                <br />
+                <h2>
+                    <span id="distance"> </span>
+                </h2>
             </div>
         </div>
+    </div>
 
 
-        <div class="Tablestruct">
-            <div class="row">
-                <b> <i>Track </i></b>
-            </div>
-            <hr />
-            @foreach (var item in ViewBag.SportsPersons)
-            {
-                <div class="showData">
-                    <div>
-                        @item.ID. &ensp;  @item.name
-
-                        <input class="btn danger" type="button" value="Stop"   onclick="stop()" />
-
-                        <input  id="@item.name" class="btn info" type="button" value="Warn" onclick="changename(id)"  />
-
-                    </div>
-
-
-
-
-
-                    <hr />
-                </div>
-            }
-
-
+    <div class="Tablestruct">
+        <div class="row">
+            <b> <i>Track </i></b>
         </div>
+        <hr />
+        @foreach (var item in ViewBag.SportsPersons)
+        {
+            <div class="showData">
+                <div>
+                    @item.ID. &ensp;  @item.name
+
+                    <span id="@item.ID">
+
+                        <input id="@item.ID" class="btn danger" type="button" value="Stop" onclick="stopbutton(id)" />
+
+                        <input id="@item.name'" class="btn info" type="button" value="Warn" onclick="changename(id)" />
+                    </span>
+
+                    <select id="@item.ID+" class="dropvalues">
+                        <option value="Choose a number"></option>
+                    </select>
+
+                </div>
+
+
+
+
+
+                <hr />
+            </div>
+        }
 
 
     </div>
+
+
+</div>
 
 

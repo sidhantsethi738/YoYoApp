@@ -702,23 +702,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shiv\\.nuget\\packages\\": {},
+    "C:\\Users\\SI373341\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\YoYo-Web-App\\YoYoBusinessLogic\\YoYoBusinessLogic.csproj",
+      "projectUniqueName": "D:\\yoyo\\YoYoApp\\YoYoBusinessLogic\\YoYoBusinessLogic.csproj",
       "projectName": "YoYoBusinessLogic",
-      "projectPath": "E:\\YoYo-Web-App\\YoYoBusinessLogic\\YoYoBusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\Shiv\\.nuget\\packages\\",
-      "outputPath": "E:\\YoYo-Web-App\\YoYoBusinessLogic\\obj\\",
+      "projectPath": "D:\\yoyo\\YoYoApp\\YoYoBusinessLogic\\YoYoBusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\SI373341\\.nuget\\packages\\",
+      "outputPath": "D:\\yoyo\\YoYoApp\\YoYoBusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SI373341\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -731,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\YoYo-Web-App\\YoYoBusinessEntities\\YoYoBusinessEntities.csproj": {
-              "projectPath": "E:\\YoYo-Web-App\\YoYoBusinessEntities\\YoYoBusinessEntities.csproj"
+            "D:\\yoyo\\YoYoApp\\YoYoBusinessEntities\\YoYoBusinessEntities.csproj": {
+              "projectPath": "D:\\yoyo\\YoYoApp\\YoYoBusinessEntities\\YoYoBusinessEntities.csproj"
             }
           }
         }

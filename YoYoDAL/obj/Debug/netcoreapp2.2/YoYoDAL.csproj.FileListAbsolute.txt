@@ -7,3 +7,11 @@ E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.AssemblyInfo.cs
 E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.dll
 E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.pdb
 E:\YoYo-Web-App\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.csprojAssemblyReference.cache
+D:\yoyo\YoYoApp\YoYoDAL\bin\Debug\netcoreapp2.2\YoYoDAL.deps.json
+D:\yoyo\YoYoApp\YoYoDAL\bin\Debug\netcoreapp2.2\YoYoDAL.dll
+D:\yoyo\YoYoApp\YoYoDAL\bin\Debug\netcoreapp2.2\YoYoDAL.pdb
+D:\yoyo\YoYoApp\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.csproj.CoreCompileInputs.cache
+D:\yoyo\YoYoApp\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.AssemblyInfoInputs.cache
+D:\yoyo\YoYoApp\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.AssemblyInfo.cs
+D:\yoyo\YoYoApp\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.dll
+D:\yoyo\YoYoApp\YoYoDAL\obj\Debug\netcoreapp2.2\YoYoDAL.pdb

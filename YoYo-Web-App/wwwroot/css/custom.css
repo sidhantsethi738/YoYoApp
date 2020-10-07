@@ -96,6 +96,54 @@
 
 
 
+.progress {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    top: 12%;
+    left: 50%;
+    margin: -80px 0 0 -80px;
+    background-color: transparent;
+}
+
+.progress-circle {
+    transform: rotate(-90deg);
+    margin-top: -40px;
+}
+
+.progress-circle-back {
+    fill: none;
+    stroke: #D2D2D2;
+    stroke-width: 10px;
+}
+
+.progress-circle-prog {
+    fill: none;
+    stroke: #7E3451;
+    stroke-width: 10px;
+    stroke-dasharray: 0 999;
+    stroke-dashoffset: 0px;
+    transition: stroke-dasharray 0.7s linear 0s;
+}
+
+.progress-text {
+    width: 25%;
+    position: absolute;
+    top: 20px;
+    right:110px;
+    text-align: center;
+    font-size: 2em;
+}
 
 
+.dropvalues{
+    float:right;
+    background-color:transparent;
+}
 
+.endcircle{
+   top :20px;
+   font:larger;
+
+}

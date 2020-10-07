@@ -6,6 +6,10 @@
     <RootNamespace>YoYo_Web_App</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\js\fitnessrating_beeptest.json" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="jQuery" Version="3.5.1" />

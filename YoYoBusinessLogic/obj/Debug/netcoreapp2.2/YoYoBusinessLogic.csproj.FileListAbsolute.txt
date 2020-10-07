@@ -10,3 +10,15 @@ E:\YoYo-Web-App\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.d
 E:\YoYo-Web-App\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.pdb
 E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.csprojAssemblyReference.cache
 E:\YoYo-Web-App\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.csproj.CopyComplete
+D:\yoyo\YoYoApp\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessLogic.deps.json
+D:\yoyo\YoYoApp\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessLogic.dll
+D:\yoyo\YoYoApp\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessLogic.pdb
+D:\yoyo\YoYoApp\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.dll
+D:\yoyo\YoYoApp\YoYoBusinessLogic\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.pdb
+D:\yoyo\YoYoApp\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.csprojAssemblyReference.cache
+D:\yoyo\YoYoApp\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.csproj.CoreCompileInputs.cache
+D:\yoyo\YoYoApp\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.AssemblyInfoInputs.cache
+D:\yoyo\YoYoApp\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.AssemblyInfo.cs
+D:\yoyo\YoYoApp\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.csproj.CopyComplete
+D:\yoyo\YoYoApp\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.dll
+D:\yoyo\YoYoApp\YoYoBusinessLogic\obj\Debug\netcoreapp2.2\YoYoBusinessLogic.pdb

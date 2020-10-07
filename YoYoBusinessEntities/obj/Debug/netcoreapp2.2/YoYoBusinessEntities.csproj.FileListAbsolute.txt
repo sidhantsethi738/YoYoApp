@@ -7,3 +7,12 @@ E:\YoYo-Web-App\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntitie
 E:\YoYo-Web-App\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.dll
 E:\YoYo-Web-App\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.pdb
 E:\YoYo-Web-App\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.csprojAssemblyReference.cache
+D:\yoyo\YoYoApp\YoYoBusinessEntities\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.deps.json
+D:\yoyo\YoYoApp\YoYoBusinessEntities\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.dll
+D:\yoyo\YoYoApp\YoYoBusinessEntities\bin\Debug\netcoreapp2.2\YoYoBusinessEntities.pdb
+D:\yoyo\YoYoApp\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.csproj.CoreCompileInputs.cache
+D:\yoyo\YoYoApp\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.AssemblyInfoInputs.cache
+D:\yoyo\YoYoApp\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.AssemblyInfo.cs
+D:\yoyo\YoYoApp\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.dll
+D:\yoyo\YoYoApp\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.pdb
+D:\yoyo\YoYoApp\YoYoBusinessEntities\obj\Debug\netcoreapp2.2\YoYoBusinessEntities.csprojAssemblyReference.cache

@@ -28,31 +28,6 @@ namespace YoYo_Web_App.Controllers
         {
 
             ViewBag.SportsPersons = _ifitness.GetSportPerson();
-
-
-             string allText = System.IO.File.ReadAllText("fitnessrating_beeptest.json");
-            List<FitnessBeep> list = JsonConvert.DeserializeObject<List<FitnessBeep>>(allText);
-
-          //  for (int i = 0; i <= list.Count;i++) {
-                string starttime = list[0].StartTime.Replace(":","");
-                string commulativetime = list[1].StartTime.Replace(":", "");
-
-                int Shuttletime = Convert.ToInt16(commulativetime) - Convert.ToInt16(starttime);
-
-                ViewBag.Message = Shuttletime ;
-
-                //Thread.Sleep(Shuttletime*1000);
-
-
-         //   }
-
-           
-
-
-
-
-
-
             return View();
         }
         

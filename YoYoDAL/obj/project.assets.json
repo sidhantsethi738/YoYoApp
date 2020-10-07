@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shiv\\.nuget\\packages\\": {},
+    "C:\\Users\\SI373341\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\YoYo-Web-App\\YoYoDAL\\YoYoDAL.csproj",
+      "projectUniqueName": "D:\\yoyo\\YoYoApp\\YoYoDAL\\YoYoDAL.csproj",
       "projectName": "YoYoDAL",
-      "projectPath": "E:\\YoYo-Web-App\\YoYoDAL\\YoYoDAL.csproj",
-      "packagesPath": "C:\\Users\\Shiv\\.nuget\\packages\\",
-      "outputPath": "E:\\YoYo-Web-App\\YoYoDAL\\obj\\",
+      "projectPath": "D:\\yoyo\\YoYoApp\\YoYoDAL\\YoYoDAL.csproj",
+      "packagesPath": "C:\\Users\\SI373341\\.nuget\\packages\\",
+      "outputPath": "D:\\yoyo\\YoYoApp\\YoYoDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SI373341\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
